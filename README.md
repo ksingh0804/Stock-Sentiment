@@ -1,2 +1,2 @@
 # Stock-Sentiment
-NLP Stock Sentiment Analysis
+#### Data were categorized as positive, negative, or neutral using the NLP approach of sentiment analysis (also known as opinion mining). Messages from customers, interactions with contact centers, online reviews, social media posts, and other types of material may all be analyzed using sentiment analysis. In this project words are extracted from Finviz website for certain stock and sentiment analysis is performed. Based on the sentiment people can do the trading. (Not a finanical Advice)
